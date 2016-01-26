@@ -20,6 +20,9 @@
 - gimp
 - dia
 
+###Sound stuff
+- jack
+- ffmpeg
 
 ###Utility
 - git
@@ -28,6 +31,7 @@
 - LibreOffice
 - cmake
 - wireshark
+- brasero
 
 ###Usability
 - tmux
