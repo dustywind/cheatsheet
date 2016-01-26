@@ -20,6 +20,7 @@
 
 ###Utility
 - git
+- TortoiseGit
 - LibreOffice
 - wireshark
 
