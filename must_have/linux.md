@@ -46,4 +46,9 @@
 
 ##Fun
 - Mozilla Firefox/Iceweasel
+    - NoScript
+    - Self-destructing Cookies
+    - uBlock Origin
+    - ColorfulTabs
+    - Disable Ctrl-Q Shortcut
 - youtube-dl
