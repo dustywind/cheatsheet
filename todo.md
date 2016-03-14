@@ -1,7 +1,6 @@
 
-learning propper unit testing
-
-python3 qt
+- learning propper unit testing
+- python3 qt
 
 
 
